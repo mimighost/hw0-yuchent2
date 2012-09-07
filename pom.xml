@@ -56,7 +56,7 @@
 		</dependency>
 	</dependencies>
 	<scm>
-		<connection>scm:git:git://github.com/mimighost/hw0-yuchent2.git</connection>
-		<developerConnection>scm:git:git://github.com/mimighost/hw0-yuchent2.git</developerConnection>
+		<connection>scm:git:git@github.com:mimighost/hw0-yuchent2.git</connection>
+		<developerConnection>scm:git:git@github.com:mimighost/hw0-yuchent2.git</developerConnection>
 	</scm>
 </project>
